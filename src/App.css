@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.carousel-item img {
+    height: 93vh;
+
+}
+
+.navbar-brand {
+    background-color: #ff3e41;
+    color: white;
+    width: 150px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.number {
+    font-size: 25px;
+}
+
+.nav-item {
+    margin-right: 20px;
+}
+
+.nav-link:hover {
+    color: #ff3e41;
+}
+
+.about {
+    color: #51CFED;
+    margin-right: 50px;
+
+}
+
+.LanguageIcon {
+    color: #ff3e41;
+
+}
+
+.LocalShippingIcon {
+    color: #ff3e41;
+
+
+}
+
+.card {
+    transition: all 0.5s;
+
+}
+
+.card:hover {
+
+    transform: scale(1.1);
+}
